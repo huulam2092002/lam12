@@ -91,7 +91,7 @@ fig, (ax1, ax2) = plt.subplots(2, 1, sharex=True)
 ax1.plot(t, sig)
 ax1.set_title('Tin hieu truoc khi loc')
 ax1.axis([0, 1, -2, 2])
-
+#hom nay thu 7
 	
 # Áp bộ lọc vào tín hiệu
 
